@@ -1,4 +1,4 @@
-# Liputan-6-Text-Summarization-Bert2Bert-
+<img width="635" alt="Screenshot 2024-04-15 at 15 05 58" src="https://github.com/AlfianAliM/Liputan-6-Text-Summarization-Bert2Bert-/assets/115053112/6bf08532-8418-4504-a83f-bbb6a6f1bbb9"># Liputan-6-Text-Summarization-Bert2Bert-
 
 Background & Problem Statement
 
@@ -24,8 +24,9 @@ Menggunakan V100 GPU/16 GB dan RAM 12.7 GB
 7. Remove stopwords (EDA)
 8. Remove singe characters
 
-   ![image](https://github.com/AlfianAliM/Liputan-6-Text-Summarization-Bert2Bert-/assets/115053112/99ccbd9b-1dd3-4e58-a52e-acfb96048dd3)
-![image](https://github.com/AlfianAliM/Liputan-6-Text-Summarization-Bert2Bert-/assets/115053112/5966e0e5-d765-4ff5-b809-e80e34ae8655)
+
+<img width="619" alt="Screenshot 2024-04-15 at 15 07 02" src="https://github.com/AlfianAliM/Liputan-6-Text-Summarization-Bert2Bert-/assets/115053112/a12dc292-6c72-4d38-9c27-f1c1876b18f7">
+<img width="635" alt="Screenshot 2024-04-15 at 15 05 58" src="https://github.com/AlfianAliM/Liputan-6-Text-Summarization-Bert2Bert-/assets/115053112/3bfc8953-81d1-44f5-b58f-b43e7eca3e3a">
 
 **Summary**
 1. Model (model_batch_2_lr_1e-5) pretrained cahya/bert2bert-indonesian-summarization yang di-finetune menggunakan 10% data id_liputan6, batch = 2, dan learning rate = 5e-5 menghasilkan performa ROUGE paling baik dibandingkan model lainnya.
