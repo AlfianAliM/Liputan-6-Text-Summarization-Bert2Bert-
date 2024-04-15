@@ -36,3 +36,4 @@ Menggunakan V100 GPU/16 GB dan RAM 12.7 GB
 2. Project ini menggunakan 10% dari total train dataset, maka projek selanjutnya menggunakan seluruh dataset untuk train fine tuning dengan resource yang mendukung. 
 3. Melakukan error analysis.
 4. Menggunakan model text-summarization yang up-to-date (SOTA)
+# Liputan-6-Text-Summarization-Bert2Bert-
