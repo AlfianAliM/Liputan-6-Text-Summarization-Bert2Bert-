@@ -1,7 +1,4 @@
-<img width="635" alt="Screenshot 2024-04-15 at 15 05 58" src="https://github.com/AlfianAliM/Liputan-6-Text-Summarization-Bert2Bert-/assets/115053112/6bf08532-8418-4504-a83f-bbb6a6f1bbb9"># Liputan-6-Text-Summarization-Bert2Bert-
-
-Background & Problem Statement
-
+**Background & Problem Statement**
 Jumlah informasi yang tersedia melalui internet terus meningkat pesat di era digitalisasi saat ini. Pengguna sering kali mengalami kesulitan dalam menemukan dan mengkonsumsi informasi yang relevan bagi mereka. Portal berita online seperti Liputan 6 menjadi salah satu sumber utama informasi dengan menyajikan berita-berita terkini dalam berbagai bidang.
 
 Dengan banyaknya berita yang dipublikasikan setiap hari di portal berita tersebut, pengguna sering kali tidak memiliki waktu atau kesabaran untuk membaca seluruh artikel. Oleh karena itu, pada project kali ini akan dirancang sistem yang dapat merangkum konten berita menjadi ringkasan yang mencakup inti dari informasi yang disampaikan yang biasa disebut text summarization.
